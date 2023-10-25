@@ -471,5 +471,5 @@ class CameraEffectRandomizer:
 
 if __name__ == '__main__':
 
-    randomizer = CameraRandomizer()
+    randomizer = CameraEffectRandomizer()
     randomizer.camera_effect_randomize() 
